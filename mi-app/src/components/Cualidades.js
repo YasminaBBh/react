@@ -7,9 +7,7 @@ const Cualidades = () => {
       <ul>
         <li>Facilidad en trabajo con equipo</li>
         <li>Movilidad facilitada</li>
-        <li>Creativa y trabajadora</li>
-        <li>Tranquila y paciente</li>
-      
+        <li>Creativa y trabajadora</li>     
       </ul>
     </div>
   );
