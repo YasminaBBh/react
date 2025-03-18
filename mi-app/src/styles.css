@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .cabecera {
+    background-color: #3e6e9e;
+    padding: 50px;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+  }
+  
+  .perfil-img {
+    width: 150px;
+    border-radius: 50%;
+  }
+  
+  .hover{
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 25px;
+    margin: 20px auto;
+    border-radius: 10px;
+    width: 80%;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+  }
+  
+  .hover:hover {
+    background-color: rgb(173, 173, 173);
+    transform: scale(1.02);
+  }
+  
